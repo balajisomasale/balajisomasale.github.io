@@ -3923,3 +3923,8 @@ input, select, textarea {
 	clear: both;
 	display: table;
   }
+
+
+  .myskill{
+    margin-top: 10vw;
+}
